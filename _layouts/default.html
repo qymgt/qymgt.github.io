@@ -16,6 +16,13 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% if page.url == "/" %}
+  　　　<div class="hero-header">
+    　　<img src="/images/header.jpg" alt="Header image">
+    　　<div class="hero-title">量子情報研究室</div>
+  　　　</div>
+　　{% endif %}
+    
     {{ content }}
 
     <div class="page__footer">
