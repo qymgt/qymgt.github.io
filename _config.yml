@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "K. Yamagata / 研究室"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
