@@ -1,0 +1,28 @@
+/* custom.scss - あなたのカスタムスタイル */
+
+.hero-header {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.hero-header img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+}
