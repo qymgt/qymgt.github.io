@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "ja-JP"
 site_theme               : "default"
-title                    : "K. Yamagata / 研究室"
+title                    : "金沢大学 量子情報理論研究室"
 title_separator          : "-"
-name                     : &name "K. Yamagata"
+name                     : &name "量子情報理論研究室"
 description              : &description "aaaaa"
 url                      : https://qymgt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
